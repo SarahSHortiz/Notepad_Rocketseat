@@ -1,4 +1,4 @@
-# NLW Expert (React) - Notepad
+# Notepad
 
 Este projeto foi desenvolvido utilizando React, TypeScript, Tailwind e a SpeechRecognition API. O objetivo do projeto é criar um notepad utilizando essas tecnologias modernas.
 
@@ -29,8 +29,6 @@ Para executar o projeto, siga os passos abaixo:
    ```bash
    npm run dev
    ```
-
-5. Acesse o notepad em seu navegador utilizando o endereço [http://localhost:3000](http://localhost:3000).
 
 ## Funcionalidades
 
